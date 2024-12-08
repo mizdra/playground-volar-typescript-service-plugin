@@ -1,6 +1,6 @@
 {
   "name": "typescript-plugin-png",
-  "type": "commonjs",
+  "type": "module",
   "main": "./src/index.cjs",
   "license": "CC0-1.0",
   "private": true,
