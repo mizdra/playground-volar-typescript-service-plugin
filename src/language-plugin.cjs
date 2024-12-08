@@ -1,6 +1,6 @@
-const ts = require('typescript/lib/tsserverlibrary');
+/// <reference types="@volar/typescript" />
 
-/** @import {} from '@volar/typescript'; */
+const ts = require('typescript/lib/tsserverlibrary');
 
 /**
  * @returns {import('@volar/language-core').LanguagePlugin<string>}
